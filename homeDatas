@@ -1,0 +1,362 @@
+[
+    {
+        "firstTitle": "格林公司",
+        "firstList": [
+            {
+                "icon": "gloa_app_icon",
+                "name": "格林OA",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "http://106.75.94.4:8090/",
+                "download_a": "http://106.75.94.4:8090/GreenOA.apk",
+                "download_i": "暂无",
+                "cszh": "姓名拼音*密码",
+                "yyms": "移动办公OA，是为企业员工提供一个随时随地移动办公的企业级软件。",
+                "yybm": "com.office.green.gloa.green",
+                "yylx": "oa",
+                "yyxx": "http://106.75.94.4:8090/update_gloa.xml",
+                "yyzs": []
+            },
+            {
+                "icon": "stu_ys_app_icon",
+                "name": "智慧校园学生版",
+                "ewm_a": "stu_ys_app_ewm",
+                "ewm_i": "stu_ys_app_ewm_ios",
+                "gfwz": "http://d.hnfts.cn/zhxy/",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "16020135*666666",
+                "yyms": "智慧校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.student.test",
+                "yylx": "stu",
+                "yyxx": "http://d.hnfts.cn/zhxy/interface/login/interfaceGetMobileclient?dllx=1",
+                "yyzs": []
+            },
+            {
+                "icon": "tea_ys_app_icon",
+                "name": "智慧校园教师版",
+                "ewm_a": "tea_ys_app_ewm",
+                "ewm_i": "tea_ys_app_ewm_ios",
+                "gfwz": "http://d.hnfts.cn/zhxy/",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "hu1*123456",
+                "yyms": "智慧校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.teacher.test",
+                "yylx": "tea",
+                "yyxx": "http://d.hnfts.cn/zhxy/interface/login/interfaceGetMobileclient?dllx=2",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "河南省外贸学校",
+        "firstList": [
+            {
+                "icon": "stu_hn_app_icon",
+                "name": "河南外贸学生版",
+                "ewm_a": "stu_hn_app_ewm",
+                "ewm_i": "stu_hn_app_ewm_ios",
+                "gfwz": "http://d.hnfts.cn/zhxy/",
+                "download_a": "http://oa.hnfts.cn/WeClassForStudent.apk",
+                "download_i": "https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A4%96%E8%B4%B8%E5%AD%A6%E6%A0%A1-%E6%95%B0%E5%AD%97%E5%8C%96%E6%A0%A1%E5%9B%AD%E5%AD%A6%E7%94%9F%E7%AB%AF/id1353771457?mt=8",
+                "cszh": "16020135*666666",
+                "yyms": "河南省外贸学校数字校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.student.hn",
+                "yylx": "stu",
+                "yyxx": "http://d.hnfts.cn/zhxy/interface/login/interfaceGetMobileclient?dllx=1",
+                "yyzs": []
+            },
+            {
+                "icon": "tea_hn_app_icon",
+                "name": "河南外贸教师版",
+                "ewm_a": "tea_hn_app_ewm",
+                "ewm_i": "tea_hn_app_ewm_ios",
+                "gfwz": "http://d.hnfts.cn/zhxy/",
+                "download_a": "http://oa.hnfts.cn/WeClassForTeacher.apk",
+                "download_i": "https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A4%96%E8%B4%B8%E5%AD%A6%E6%A0%A1-%E6%95%B0%E5%AD%97%E5%8C%96%E6%A0%A1%E5%9B%AD%E6%95%99%E5%B7%A5%E7%AB%AF/id1350048576?mt=8",
+                "cszh": "hu1*123456",
+                "yyms": "河南省外贸学校数字校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.teacher.hn",
+                "yylx": "tea",
+                "yyxx": "http://d.hnfts.cn/zhxy/interface/login/interfaceGetMobileclient?dllx=2",
+                "yyzs": []
+            },
+            {
+                "icon": "sh_hn_app_icon",
+                "name": "河南外贸商户版",
+                "ewm_a": "sh_hn_app_ewm",
+                "ewm_i": "sh_hn_app_ewm_ios",
+                "gfwz": "http://d.hnfts.cn/zhxy/",
+                "download_a": "http://oa.hnfts.cn/WeClassForHSP.apk",
+                "download_i": "https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A4%96%E8%B4%B8%E5%AD%A6%E6%A0%A1-%E6%95%B0%E5%AD%97%E5%8C%96%E6%A0%A1%E5%9B%AD%E5%95%86%E6%88%B7%E7%AB%AF/id1353735777?mt=8",
+                "cszh": "18776675642*666666",
+                "yyms": "河南省外贸学校数字校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.green.hnsp",
+                "yylx": "sh",
+                "yyxx": "http://d.hnfts.cn/zhxy/interface/login/interfaceGetMobileclient?dllx=2",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "遵义师范学院",
+        "firstList": [
+            {
+                "icon": "stu_zy_app_icon",
+                "name": "遵义师范学生版",
+                "ewm_a": "stu_zy_app_ewm",
+                "ewm_i": "stu_zy_app_ewm_ios",
+                "gfwz": "http://222.86.159.102:8090/zhxy/",
+                "download_a": "http://222.86.159.102:8090/WeClassForStudent.apk",
+                "download_i": "https://itunes.apple.com/cn/app/%E9%81%B5%E4%B9%89%E5%B8%88%E8%8C%83%E6%99%BA%E6%85%A7%E6%A0%A1%E5%9B%AD-%E5%AD%A6%E7%94%9F%E7%89%88/id1207699239?mt=8",
+                "cszh": "134090102046*666666",
+                "yyms": "遵义师范学院智慧校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.student.zy",
+                "yylx": "stu",
+                "yyxx": "http://222.86.159.102:8090/zhxy/interface/login/interfaceGetMobileclient?dllx=1",
+                "yyzs": []
+            },
+            {
+                "icon": "tea_zy_app_icon",
+                "name": "遵义师范教师版",
+                "ewm_a": "tea_zy_app_ewm",
+                "ewm_i": "tea_zy_app_ewm_ios",
+                "gfwz": "http://222.86.159.102:8090/zhxy/",
+                "download_a": "http://222.86.159.102:8090/WeClassForTeacher.apk",
+                "download_i": "https://itunes.apple.com/cn/app/%E9%81%B5%E4%B9%89%E5%B8%88%E8%8C%83%E6%99%BA%E6%85%A7%E6%A0%A1%E5%9B%AD-%E6%95%99%E5%B8%88%E7%89%88/id1202285366?mt=8",
+                "cszh": "2015095*200040",
+                "yyms": "遵义师范学院智慧校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.teacher.zy",
+                "yylx": "tea",
+                "yyxx": "http://222.86.159.102:8090/zhxy/interface/login/interfaceGetMobileclient?dllx=2",
+                "yyzs": []
+            },
+            {
+                "icon": "xg_app_icon",
+                "name": "学工管理系统",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "http://211.137.204.196:8090/glxg/",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "hu1*666666",
+                "yyms": "学生工作管理系统涵盖高校学生工作的各个环节，包括班级管理、宿舍管理、学生学籍信息管理、班级干部管理、党员管理、信息通知、学生通知短信发送、学生请假管理、学生考勤管理、一日常规、宿舍卫生检查、评奖评优、学生处分、勤工助学、贫困认定、科技创新、综合测评、社团信息管理、成绩查询等二十几个功能模块，基于校园网 /互联网 /手机 WAP 和短信为高校学生工作提供先进、实用的信息化管理手段，为学生、辅导员、教师、管理人员提供简便、快捷的网络化信息服务。",
+                "yybm": "com.green.glxg",
+                "yylx": "xg",
+                "yyxx": "http://123.207.56.22:8090/glxg/appVersions/interfaceAppInfo?appName=Android",
+                "yyzs": []
+            },
+            {
+                "icon": "yx_app_icon",
+                "name": "数字迎新系统",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "http://211.137.204.196:8090/glyx/",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "hu1*666666",
+                "yyms": "数字迎新系统涵盖了迎新网站、新生信息管理、迎新手续定制、学生报到、分班分学号、分宿舍、报到数据统计等一系列有关报到前、报到中、报到后的业务流程。 通过迎新网站，学生可以提前查询学校的报到流程、自己的缴欠费情况、宿舍分配情况；通过与招生系统的集成，完成报到前的数据收集；通过与收费系统、宿管系统集成完成报到中有关缴费和分宿舍的操作；通过与教务、 学工系统集成，完成报到后数据的提供。系统支持多种报到方式，如：持校园卡、扫描报到单、手工报到。三种方式可单独使用，也可以混合使用。系统的用户主要是领导、各部门或院系老师，学生可以登录迎新网站查询有关信息。",
+                "yybm": "com.green.glyx",
+                "yylx": "yx",
+                "yyxx": "",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "山东财经大学",
+        "firstList": [
+            {
+                "icon": "stu_sc_app_icon",
+                "name": "山财大学生版",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "http://112.53.75.163:8090/zhxy/",
+                "download_a": "http://112.53.75.163:8090/WeClassForStudent.apk",
+                "download_i": "无",
+                "cszh": "20160436628*666666",
+                "yyms": "山东财经大学智慧校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.student",
+                "yylx": "stu",
+                "yyxx": "http://112.53.75.163:8090/zhxy/interface/login/interfaceGetMobileclient?dllx=1",
+                "yyzs": []
+            },
+            {
+                "icon": "tea_sc_app_icon",
+                "name": "山财大教师版",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "http://112.53.75.163:8090/zhxy/",
+                "download_a": "http://112.53.75.163:8090/WeClassForTeacher.apk",
+                "download_i": "无",
+                "cszh": "20090234*666666",
+                "yyms": "山东财经大学智慧校园平台以平台化思路，整合校内外资源，实现服务的集中管理，提供面对师生员工提供一站式服务，涵盖全校各类用户全生命周期，涉及教学、科研、生活等所有领域，实现校园信息化建设的服务化转型。",
+                "yybm": "com.zhxy.green.weclass.teacher",
+                "yylx": "tea",
+                "yyxx": "http://112.53.75.163:8090/zhxy/interface/login/interfaceGetMobileclient?dllx=2",
+                "yyzs": []
+            },
+            {
+                "icon": "sqjh_app_icon",
+                "name": "山财大三千计划",
+                "ewm_a": "sqjh_app_ewm",
+                "ewm_i": "sqjh_app_ewm_ios",
+                "gfwz": "http://210.44.128.237/3kplan/",
+                "download_a": "http://210.44.128.237/sqjh.apk",
+                "download_i": "https://itunes.apple.com/cn/app/%E4%B8%89%E5%8D%83%E8%AE%A1%E5%88%92/id1271693231?mt=8",
+                "cszh": "无",
+                "yyms": "大学生社会实践活动是高校人才培养不可或缺的重要组成部分和重要环节，是坚持实践育人的有效形式，是大学生提高综合素质、树立正确价值取向、增强社会责任感、培养创新精神、提高实践能力的有效载体。大学生社会实践活动的品牌化建设，对于全面提升人才培养质量、助力“特色名校”建设具有重要意义。“三千计划”的核心目的在于，引导大学生深入社会、深入基层、深入群众，在实践中了解省情、国情、世情，在实践中接地气、受教育、长才干、做贡献。",
+                "yybm": "com.green.glsqp",
+                "yylx": "sqp",
+                "yyxx": "http://210.44.128.237/3kplan/appVersions/interfaceAppInfo?",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "内蒙古农业大学",
+        "firstList": [
+            {
+                "icon": "nh_nmnd_app_icon",
+                "name": "内蒙农大",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "无",
+                "yybm": "com.green.glec.nmnd",
+                "yylx": "nh",
+                "yyxx": "无",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "上海科技职业学院",
+        "firstList": [
+            {
+                "icon": "nh_shkz_app_icon",
+                "name": "上海科职",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "无",
+                "yybm": "com.green.glec.shkz",
+                "yylx": "nh",
+                "yyxx": "无",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "山东建筑大学",
+        "firstList": [
+            {
+                "icon": "nh_sdjz_app_icon",
+                "name": "山东建大",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "无",
+                "yybm": "com.green.glec.sdjz",
+                "yylx": "nh",
+                "yyxx": "无",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "北京医院",
+        "firstList": [
+            {
+                "icon": "nh_bjyy_app_icon",
+                "name": "北京医院",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "无",
+                "yybm": "com.green.glec.bjyy",
+                "yylx": "nh",
+                "yyxx": "无",
+                "yyzs": []
+            }
+        ]
+    },
+    {
+        "firstTitle": "其他",
+        "firstList": [
+            {
+                "icon": "hqfw_app_icon",
+                "name": "后勤服务大厅",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "无",
+                "yybm": "com.green.frame.glhqfw",
+                "yylx": "hqfw",
+                "yyxx": "无",
+                "yyzs": []
+            },
+            {
+                "icon": "zc_app_icon",
+                "name": "资产管理系统",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "随着学校业务的扩展和资源的开发和利用， 一些学校的资产分布和管理成为人们关注的问题。 如何更好的实现资产管理更新和利用成为一些集学校和一些跨行业公司的难题。 利用现代地理信息系统 GIS 地图开发技术和目前一些资产管理软件系统能够更好地解决企业资产的可视化管理。 大大提高资产利用率和有效避免了资产的流失， 提升资产管理工作效率和精准度。",
+                "yybm": "com.green.glzc",
+                "yylx": "zc",
+                "yyxx": "无",
+                "yyzs": []
+            },
+            {
+                "icon": "zszt_app_icon",
+                "name": "中水智能化系统",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "无",
+                "yybm": "com.green.zyzs",
+                "yylx": "zszt",
+                "yyxx": "无",
+                "yyzs": []
+            },
+            {
+                "icon": "sysyy_app_icon",
+                "name": "实验室预约",
+                "ewm_a": "无",
+                "ewm_i": "无",
+                "gfwz": "无",
+                "download_a": "无",
+                "download_i": "无",
+                "cszh": "无",
+                "yyms": "无",
+                "yybm": "com.green.lab",
+                "yylx": "sysyy",
+                "yyxx": "无",
+                "yyzs": []
+            }
+        ]
+    }
+]
